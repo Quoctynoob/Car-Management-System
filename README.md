@@ -1,6 +1,6 @@
 # Car Management System
 
-This project is a Car Management System. The system allows users to manage a list of cars, providing functionalities to add new cars, load car data from a file, search for cars, and sort them.
+This project is a Car Management System in C language. The system allows users to manage a list of cars, providing functionalities to add new cars, load car data from a file, search for cars, and sort them.
 
 ## Features
 
@@ -36,5 +36,3 @@ This project is a Car Management System. The system allows users to manage a lis
    ```bash
    ./bin/carBase
 
-## Author
-Quoc Le
